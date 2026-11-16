@@ -1,0 +1,1 @@
+This is written using FILE I/O Wirte mode.
